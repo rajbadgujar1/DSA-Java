@@ -1,3 +1,4 @@
+package STARPATTERN;
 public class hollowrec {
     
     public static void main(String[] args) {

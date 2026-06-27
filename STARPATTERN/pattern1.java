@@ -1,3 +1,4 @@
+package STARPATTERN;
 public class pattern1 {
     //rectangle of stars
     public static void main(String[] args) {
