@@ -1,6 +1,6 @@
 package STARPATTERN;
-public class hollowrec {
-    
+public class pattern2 {
+    // HOLLOW REC
     public static void main(String[] args) {
         int n = 4;
         int m = 5;

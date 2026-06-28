@@ -1,6 +1,6 @@
 package STARPATTERN;
 
-public class halfpyramid2 {
+public class pattern3 {
 
 /*
 
