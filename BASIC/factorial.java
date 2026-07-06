@@ -23,7 +23,7 @@ public class factorial {
 
             System.out.println(fac(b));
 
-
+hi.close();
 
     }
     

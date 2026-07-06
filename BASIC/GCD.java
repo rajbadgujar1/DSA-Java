@@ -12,6 +12,7 @@ public class GCD {
         int b = sc.nextInt();
 
         System.out.println(gcd(a, b));
+            sc.close();
     }
 
     static int gcd(int a, int b) {

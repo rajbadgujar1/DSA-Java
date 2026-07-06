@@ -9,7 +9,7 @@ public class fibonacci {
         int a = hi.nextInt();
        System.out.println(fib(a));
 
-
+        hi.close();
 
     }
 
